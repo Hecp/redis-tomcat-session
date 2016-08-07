@@ -1,0 +1,8 @@
+com\hcp\redissession\RedisSessionManager$SessionPersistPolicy.class
+com\hcp\redissession\RedisSessionHandlerValve.class
+com\hcp\redissession\DeserializedSessionContainer.class
+com\hcp\redissession\JavaSerializer.class
+com\hcp\redissession\RedisSessionManager.class
+com\hcp\redissession\Serializer.class
+com\hcp\redissession\SessionSerializationMetadata.class
+com\hcp\redissession\RedisSession.class
